@@ -123,9 +123,3 @@ This project is open-source and available under the MIT License.
 ⭐ Show Your Support!
 If you like this project, please ⭐ the repository — it helps a lot.
 
-If you want, I can also create:
-✔ A beautiful GitHub banner
-✔ Project screenshots
-✔ Badges (Python version, License, Stars)
-✔ A short demo video script
-Just say “Add badges” or “Make screenshots” or “Make GitHub description”.
